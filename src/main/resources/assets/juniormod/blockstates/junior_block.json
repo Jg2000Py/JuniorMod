@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "juniormod:junior_block" }
+    }
+}

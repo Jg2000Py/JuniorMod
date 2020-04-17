@@ -1,0 +1,8 @@
+{
+    "armas.usp":
+    {
+        "category": "armas",
+        "subtitle": "armas.usp",
+        "sounds": [{ "name": "juniormod:armas/usp", "stream": true }]
+    }
+}

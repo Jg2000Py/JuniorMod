@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "I D",
+        "IAD",
+        "I D"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+            "item": "juniormod:usp"
+        },
+        
+        "I":
+        {
+        	"item": "minecraft:iron_ingot"
+        },
+        
+        "D":
+        {
+        	"item": "minecraft:diamond"
+        }
+    },
+   
+    "result":
+    {
+        "item": "juniormod:junior_block",
+        "count": 2
+    }
+}

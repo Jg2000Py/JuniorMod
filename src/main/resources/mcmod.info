@@ -1,0 +1,16 @@
+[
+{
+  "modid": "juniormod",
+  "name": "Minecraft Mod",
+  "description": "Mod de Junior Gutierrez",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["PussyDestroyer"],
+  "credits": "Las putas",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
